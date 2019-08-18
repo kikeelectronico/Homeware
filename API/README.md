@@ -10,7 +10,7 @@ This is important.
 Go to <a href="https://myaccount.google.com/activitycontrols" target="blanck">Activity Control</a> by Google and enable:
 
 - Web & App Activity
-- Device Iformation
+- Device Information
 - Voice & Audio Activity
 
 
@@ -44,7 +44,7 @@ Go to <a href="https://console.actions.google.com/" target="blanck">Actions on G
 <img src="https://github.com/kikeelectronico/homeware/raw/master/images/B2C4.png"/>
 </kbd>
 
-5. Go to `Develop` from the top manu and select `Invocation` in the left side menu.
+5. Go to `Develop` from the top menu and select `Invocation` in the left side menu.
 
 6. Write `Home` as Display Name and click `Save`.
 
@@ -156,7 +156,7 @@ firebase deploy
 
 ## Configure the project in Actions on Google
 
-1. Go to the <a href="https://console.firebase.google.com" target="blanck">Firebase console</a> and select the project.
+1. Go to the <a href="https://console.actions.google.com" target="blanck">Action console</a> and select the project.
 
 2. Select `Develop` from the top menu and then select `Actions` in the left side menu.
 
