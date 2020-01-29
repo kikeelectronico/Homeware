@@ -22,7 +22,7 @@ autoAuthentication.addEventListener('change', function() {
   database.ref('/settings/bools/').update({autoAuthentication: status})
     .then(function(){
       //Get the settings
-      return database.ref('/settings/strings/').once('value');
+      return database.ref('/settings/bools/').once('value');
     })
     .then(function(settingsSnapshot){
       //Change the authorization code at the database
